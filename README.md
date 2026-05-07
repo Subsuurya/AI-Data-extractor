@@ -91,8 +91,3 @@ Response:
   }
 }
 ````
-
-
-## 👨‍💻 Developed by
-Muhamad Fakhrul Najmi bin Abd Aziz
-Backend Developer
